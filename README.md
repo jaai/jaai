@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jaai
 - 👀 I’m interested in Development job| Hire me
-- 🌱 I’m currently learning Dart, Flutter,SpringBoot Microservices
-- 💞️ I’m looking to collaborate on ...
+- 🌱 JAVA | Android | Flutter | SpringBoot Microservices
 - 📫 You can reach me at jaikasar@gmail.com 
 
 <!---
